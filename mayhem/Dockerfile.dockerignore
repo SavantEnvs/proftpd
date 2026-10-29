@@ -1,0 +1,9 @@
+# Keep the full repo (incl. .git, which the grader uses); drop only local build artifacts and cruft.
+*.o
+*.a
+*.so
+*.lo
+*.la
+.DS_Store
+*.swp
+*~
